@@ -44,11 +44,13 @@
 
 ## 📸 Screenshots
 
- <img width="1883" height="865" alt="image" src="https://github.com/user-attachments/assets/0ca7e989-341c-4303-afc3-bc8dcfb6ded0" />
-<img width="1844" height="840" alt="image" src="https://github.com/user-attachments/assets/ae640aaf-76cb-43ab-bb87-5867b8293a68" />
-<img width="1891" height="853" alt="image" src="https://github.com/user-attachments/assets/858202f8-68c5-4802-8377-6180cf6ece54" />
-<img width="1848" height="856" alt="image" src="https://github.com/user-attachments/assets/1e35b618-fe46-401d-aaba-41bf3df2b1da" />
+<img width="1883" height="865" alt="image" src="https://github.com/user-attachments/assets/0ca7e989-341c-4303-afc3-bc8dcfb6ded0" />
 
+<img width="1844" height="840" alt="image" src="https://github.com/user-attachments/assets/ae640aaf-76cb-43ab-bb87-5867b8293a68" />
+
+<img width="1891" height="853" alt="image" src="https://github.com/user-attachments/assets/858202f8-68c5-4802-8377-6180cf6ece54" />
+
+<img width="1848" height="856" alt="image" src="https://github.com/user-attachments/assets/1e35b618-fe46-401d-aaba-41bf3df2b1da" />
 
 ---
 
@@ -67,13 +69,17 @@
   - UI design & styling  
   - PDF rendering integration  
 
-- **Ravulapalli Balaji **
+- **Ravulapalli Balaji**
   - Core logic & typing engine  
   - Stats calculation (WPM, accuracy)
 
-🙌 Acknowledgements
+---
 
-PDF.js by Mozilla for PDF rendering
-MonkeyType for inspiration on typing test UX
-Built as a personal productivity tool — because practicing typing with content you actually care about is way more effective than random word generators.
+## 🙌 Acknowledgements 
+
+- 📄 [PDF.js](https://mozilla.github.io/pdf.js/) — for PDF rendering  
+- ⌨️ [Monkeytype](https://monkeytype.com/) — for typing test inspiration  
+
+Built as a personal productivity tool — because practicing typing with content you actually care about is more effective than random word generators.
+
 ---
