@@ -6,9 +6,8 @@
 
 ## 👥 Team
 
-- **Munugoti Harshitha Bhavana**
-- **Ravulapalli Balaji**  
-
+- 👩‍💻 [Munugoti Harshitha Bhavana](https://github.com/Harshithaj79)  
+- 👨‍💻 [Ravulapalli Balaji](https://github.com/balajiravulapalli)
 ---
 
 ## ✨ Features
