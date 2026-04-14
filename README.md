@@ -1,4 +1,4 @@
-<img width="1916" height="820" alt="image" src="https://github.com/user-attachments/assets/0d08934c-fd25-4f7c-9f33-1a51ab289252" /> # 🐵 TypeMonkey — PDF Typing Practice Web App
+# 🐵 TypeMonkey — PDF Typing Practice Web App
 
 > A collaborative project built to practice typing directly from PDFs with real-time performance tracking.
 
@@ -71,5 +71,9 @@
   - Core logic & typing engine  
   - Stats calculation (WPM, accuracy)
 
+🙌 Acknowledgements
 
+PDF.js by Mozilla for PDF rendering
+MonkeyType for inspiration on typing test UX
+Built as a personal productivity tool — because practicing typing with content you actually care about is way more effective than random word generators.
 ---
