@@ -1,29 +1,29 @@
-# 🐵 TypeMonkey — PDF Typing Practice Web App
+#TypeMonkey — PDF Typing Practice Web App
 
 > A collaborative project built to practice typing directly from PDFs with real-time performance tracking.
 
 ---
 
-## 👥 Team
+##Team
 
-- 👩‍💻 [Munugoti Harshitha Bhavana](https://github.com/Harshithaj79)  
-- 👨‍💻 [Ravulapalli Balaji](https://github.com/balajiravulapalli)
+-  [Munugoti Harshitha Bhavana](https://github.com/Harshithaj79)  
+-  [Ravulapalli Balaji](https://github.com/balajiravulapalli)
 ---
 
-## ✨ Features
+## Features
 
-- 📄 Upload and preview PDF files  
-- ⌨️ Type directly from PDF content  
-- 📊 Real-time WPM (Words Per Minute)  
-- 🎯 Accuracy tracking with error highlighting  
-- ⏱ Timer modes (15s, 30s, 60s, custom)  
-- ✍️ Manual typing mode  
-- 📈 Live progress bar and stats dashboard  
-- 🎉 Result screen with performance summary  
+- Upload and preview PDF files  
+-  Type directly from PDF content  
+-  Real-time WPM (Words Per Minute)  
+-  Accuracy tracking with error highlighting  
+-  Timer modes (15s, 30s, 60s, custom)  
+-  Manual typing mode  
+-  Live progress bar and stats dashboard  
+-  Result screen with performance summary  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - HTML  
 - CSS  
@@ -32,7 +32,7 @@
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Upload a PDF file  
 2. Navigate to a page  
@@ -41,7 +41,7 @@
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 <img width="1883" height="865" alt="image" src="https://github.com/user-attachments/assets/0ca7e989-341c-4303-afc3-bc8dcfb6ded0" />
 
@@ -53,16 +53,16 @@
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
-- 🏆 Leaderboard system  
-- 💾 Save typing history  
-- 📊 Advanced analytics  
-- 🌐 Deploy live version  
+-  Leaderboard system  
+-  Save typing history  
+-  Advanced analytics  
+-  Deploy live version  
 
 ---
 
-## 👥 Contributions
+##  Contributions
 
 - **Munugoti Harshitha Bhavana**
   - UI design & styling  
@@ -74,7 +74,7 @@
 
 ---
 
-## 🙌 Acknowledgements 
+## Acknowledgements 
 
 - 📄 [PDF.js](https://mozilla.github.io/pdf.js/) — for PDF rendering  
 - ⌨️ [Monkeytype](https://monkeytype.com/) — for typing test inspiration  
